@@ -1,0 +1,11 @@
+commit c3178f996d22fe4c18c688c980f5d24bc243a854
+Author: Daniel Krepski <dkrepski@madisoncollege.edu>
+Date:   Mon Jan 25 13:43:38 2021 -0600
+
+    Added a new file
+
+commit 4c8a42203eb53c114905008456c61dcf98791c00
+Author: Daniel Krepski <dkrepski@madisoncollege.edu>
+Date:   Mon Jan 25 13:40:00 2021 -0600
+
+    Initial commit of GitHub exercise
