@@ -1,0 +1,3 @@
+This is a sample text file.
+It was created for use in the week 12 assignment.
+Python is so much fun.
